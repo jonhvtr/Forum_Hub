@@ -133,3 +133,7 @@ Response
 📌 Próximos passos
 - Implementar sistema de respostas nos tópicos
 - Criar testes unitários e de integração
+- 
+📝 License
+
+MIT License © 2025 João Victor(jonhvtr)
